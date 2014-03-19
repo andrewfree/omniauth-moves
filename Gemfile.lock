@@ -37,7 +37,7 @@ GEM
     hashie (2.0.5)
     jwt (0.1.11)
       multi_json (>= 1.5)
-    listen (2.7.0)
+    listen (2.7.1)
       celluloid (>= 0.15.2)
       celluloid-io (>= 0.15.0)
       rb-fsevent (>= 0.9.3)
